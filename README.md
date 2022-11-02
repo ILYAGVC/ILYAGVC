@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ILYAGVC
+- 👋 Hi, I’m ILYAGVC
 - 👀 I’m interested in Fortnite
 - 📫 How to reach me: 
 telegram [@ILYAGVC](https://t.me/ilyagvc) and 
