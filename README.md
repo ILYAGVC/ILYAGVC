@@ -1,8 +1,7 @@
 - 👋 Hi, I’m ILYAGVC
-- 👀 I’m interested in Fortnite
 - 📫 How to reach me: 
 telegram [@ILYAGVC](https://t.me/ilyagvc) and 
-email hi@ilyagvc.xyz
+email email@ilyagvc.xyz
 
 <!---
 ILYAGVC/ILYAGVC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
