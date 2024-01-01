@@ -1,7 +1,6 @@
 - 👋 Hi, I’m ILYAGVC
 - 📫 How to reach me: 
-telegram [@ILYAGVC](https://t.me/ilyagvc) and 
-email email@ilyagvc.online
+telegram [@ILYAGVC](https://t.me/ilyagvc)
 
 <!---
 ILYAGVC/ILYAGVC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
